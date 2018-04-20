@@ -9,9 +9,11 @@ Ensuite telecharger AdvanceSessionPlugin
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin
 
 ////////////////////////////////////////
-
+Dans le repository, indiquer le nom du projet, le nom de votre équipe, la version du projet et la date de publication.
 Nom groupe : I.O
-Nom du Jeu :
+Nom du Jeu : IO Attack
+Version:0.54
+Date de publication:20/04/2018
 Obligation :
 
 -  Le jeu nécessite obligatoirement une connexion internet.
