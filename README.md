@@ -1,9 +1,11 @@
 # UNREAL
 
 ////////////INSTALLATION/////////////////
+
 Activer le Subsytem de Steam dans les plugins d'UE (le fichier Engine.ini et à disposition dans le git.
 
 Ensuite telecharger AdvanceSessionPlugin
+
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin
 
 ////////////////////////////////////////
